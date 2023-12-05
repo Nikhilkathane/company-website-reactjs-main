@@ -10,9 +10,9 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">DarkLeas</h1>
+                <h1 className="logo">3007</h1>
                 <p className="footer-text">
-                  Lorem ipsum Here are thriteen health benefits of apples Lorem
+                Innovate. Transform. Thrive.
         
                 </p>
               </div>
@@ -46,7 +46,7 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >burhankcd@gmail.com</Link>
+                    <Link to="#" >nikhilkathane@gmail.com</Link>
                   </li>
                   <li>
                     <Link to="#" > Burhan #3265</Link>
@@ -60,7 +60,7 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/darkleas" > Github</a>
+                    <a target="_blank" rel="noreferrer" href="https://github.com/Nikhilkathane" > Github</a>
                   </li>
                   <li>
                     <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a>

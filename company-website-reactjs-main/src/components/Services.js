@@ -1,4 +1,7 @@
-import Card from "./Card";
+import Card from "../components/Card";
+
+
+
 function Services() {
   return (
     <div className="container services">
@@ -7,13 +10,13 @@ function Services() {
             <div className="col-md-12">
                 <div className="row">
                     <div className="col-md-4 mb-2">
-                        <Card title="Web Development" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                        <Card title="Web Development" img="card1.png" text="Web development builds and maintains websites using coding languages like HTML, CSS, and JavaScript. It focuses on creating user-friendly, secure, and high-performing sites for an engaging online experience " />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="E-Commerce Services" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    <Card title="E-Commerce Services" img="card2.png" text="E-commerce services power online buying and selling, handling everything from setting up digital stores to managing payments, inventory, and customer support for a seamless shopping experience" />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="Cyber Security" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    <Card title="Cyber Security" img="card3.png" text="Cybersecurity shields digital systems from attacks, preserving data integrity and preventing unauthorized access. It safeguards sensitive information and ensures the reliability of online operations" />
                     </div>
                 </div>
             </div>

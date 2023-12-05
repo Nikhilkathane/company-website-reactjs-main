@@ -11,9 +11,8 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-              quam purus, ullamcorper id risus eu, consectetur consectetur
-              purus. Etiam sagittis in eros ac sollicitudin.
+            3007 is a strategic design and technology firm dedicated to accelerating digital transformation and crafting exceptional experiences.
+Founded on 30.07.2021, our journey has been defined by our commitment to shaping digital services, brand experiences, and innovative solutions. We design with a focus on what's meaningful to our clients and people, translating it into tangible and value-driven results.
             </p>
           </div>
         </div>
